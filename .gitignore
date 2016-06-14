@@ -1,0 +1,4 @@
+#build
+node_modules
+bin/index.js
+bin/index.js.map
